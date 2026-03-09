@@ -14,4 +14,3 @@ Makefile
 .git/
 .gitignore
 .dockerignore
-README.md
