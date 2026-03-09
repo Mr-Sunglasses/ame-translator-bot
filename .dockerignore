@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.translation_cache.json
+.usage_log.json
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+tests/
+plan.md
+Makefile
+.git/
+.gitignore
+.dockerignore
+README.md
